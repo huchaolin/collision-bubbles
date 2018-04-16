@@ -1,0 +1,26 @@
+.panel {
+    /* width:600px;
+    height:300px; */
+    position: relative;
+    overflow: hidden;
+    margin: 0 auto;
+    margin-top: 150px;
+    border-radius: 5px;
+    border: 1px royalblue solid;
+}
+.blue_bubble {
+    position:absolute;
+    background: url(./img/blue_bubble.png) 0 0 no-repeat;
+    background-size: 100%;
+    z-index: 1;
+    /* transition: left 2s, top 2s; */
+
+}
+.red_bubble {
+    position: absolute;
+    background: url(./img/red_bubble.png) 0 0 no-repeat;
+    background-size: 100%;
+    width: 70px;
+    height: 70px;
+    z-index: 2;
+}
