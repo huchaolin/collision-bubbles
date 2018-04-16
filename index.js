@@ -1,5 +1,5 @@
-/**
- * @file index.js 平通科技h5测试
+﻿/**
+ * @file index.js 
  * @author 胡朝林 <715421045@qq.com>
  */
 (function () {
